@@ -1000,5 +1000,907 @@
       "vehicleManufacturer": "Lamborghini",
       "id": "100"
     }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "authorName": "Maria Silva",
+      "authorHandle": "mariasilva",
+      "avatar": "https://i.pravatar.cc/80?img=1",
+      "image": "https://picsum.photos/468/468?random=1",
+      "caption": "Acabei de chegar no escritório. Café na mão, código na tela. Hoje o deploy vai sair.",
+      "createdAt": "2025-02-03T10:00:00.000Z"
+    },
+    {
+      "id": "2",
+      "authorName": "João Santos",
+      "authorHandle": "joaosantos",
+      "avatar": "https://i.pravatar.cc/80?img=2",
+      "image": "https://picsum.photos/468/468?random=2",
+      "caption": "Alguém mais acha que segunda-feira deveria começar na terça?",
+      "createdAt": "2025-02-03T07:00:00.000Z"
+    },
+    {
+      "id": "3",
+      "authorName": "Ana Costa",
+      "authorHandle": "anacosta",
+      "avatar": "https://i.pravatar.cc/80?img=3",
+      "image": "https://picsum.photos/468/468?random=3",
+      "caption": "Finalmente terminei o curso de React. Próximo passo: contribuir em um open source.",
+      "createdAt": "2025-02-03T04:00:00.000Z"
+    },
+    {
+      "id": "4",
+      "authorName": "Pedro Lima",
+      "authorHandle": "pedrolima",
+      "avatar": "https://i.pravatar.cc/80?img=4",
+      "image": "https://picsum.photos/468/468?random=4",
+      "caption": "O que vocês estão usando para gerenciar estado em 2025? Estou entre Zustand e Jotai.",
+      "createdAt": "2025-02-03T01:00:00.000Z"
+    },
+    {
+      "id": "5",
+      "authorName": "Carla Mendes",
+      "authorHandle": "carlamendes",
+      "avatar": "https://i.pravatar.cc/80?img=5",
+      "image": "https://picsum.photos/468/468?random=5",
+      "caption": "Bom dia! Hoje é dia de refatorar aquele componente que ninguém quer tocar. Coragem.",
+      "createdAt": "2025-02-02T22:00:00.000Z"
+    },
+    {
+      "id": "6",
+      "authorName": "Lucas Ferreira",
+      "authorHandle": "lucasferreira",
+      "avatar": "https://i.pravatar.cc/80?img=6",
+      "image": "https://picsum.photos/468/468?random=6",
+      "caption": "Code review às 9h. Tomem o café antes.",
+      "createdAt": "2025-02-02T19:00:00.000Z"
+    },
+    {
+      "id": "7",
+      "authorName": "Juliana Oliveira",
+      "authorHandle": "julianaoliveira",
+      "avatar": "https://i.pravatar.cc/80?img=7",
+      "image": "https://picsum.photos/468/468?random=7",
+      "caption": "Merge feito. Próxima feature: infinite scroll no feed.",
+      "createdAt": "2025-02-02T16:00:00.000Z"
+    },
+    {
+      "id": "8",
+      "authorName": "Rafael Souza",
+      "authorHandle": "rafaelsouza",
+      "avatar": "https://i.pravatar.cc/80?img=8",
+      "image": "https://picsum.photos/468/468?random=8",
+      "caption": "Alguém indica um bom curso de TypeScript? Quero aprofundar.",
+      "createdAt": "2025-02-02T13:00:00.000Z"
+    },
+    {
+      "id": "9",
+      "authorName": "Fernanda Lima",
+      "authorHandle": "fernandalima",
+      "avatar": "https://i.pravatar.cc/80?img=9",
+      "image": "https://picsum.photos/468/468?random=9",
+      "caption": "Domingo = dia de side project. O que vocês estão construindo?",
+      "createdAt": "2025-02-02T10:00:00.000Z"
+    },
+    {
+      "id": "10",
+      "authorName": "Bruno Alves",
+      "authorHandle": "brunoalves",
+      "avatar": "https://i.pravatar.cc/80?img=10",
+      "image": "https://picsum.photos/468/468?random=10",
+      "caption": "Testes passando. Deploy em produção na sequência.",
+      "createdAt": "2025-02-02T07:00:00.000Z"
+    },
+    {
+      "id": "11",
+      "authorName": "Camila Rocha",
+      "authorHandle": "camilarocha",
+      "avatar": "https://i.pravatar.cc/80?img=11",
+      "image": "https://picsum.photos/468/468?random=11",
+      "caption": "Pair programming hoje salvou meu dia. Obrigado ao time.",
+      "createdAt": "2025-02-02T04:00:00.000Z"
+    },
+    {
+      "id": "12",
+      "authorName": "Diego Martins",
+      "authorHandle": "diegomartins",
+      "avatar": "https://i.pravatar.cc/80?img=12",
+      "image": "https://picsum.photos/468/468?random=12",
+      "caption": "Novo notebook chegou. Setup do ambiente é sempre a parte chata.",
+      "createdAt": "2025-02-02T01:00:00.000Z"
+    },
+    {
+      "id": "13",
+      "authorName": "Patricia Gomes",
+      "authorHandle": "patriciagomes",
+      "avatar": "https://i.pravatar.cc/80?img=13",
+      "image": "https://picsum.photos/468/468?random=13",
+      "caption": "Consegui o primeiro PR aprovado no projeto open source. Feliz demais.",
+      "createdAt": "2025-02-01T22:00:00.000Z"
+    },
+    {
+      "id": "14",
+      "authorName": "Ricardo Nunes",
+      "authorHandle": "ricardonunes",
+      "avatar": "https://i.pravatar.cc/80?img=14",
+      "image": "https://picsum.photos/468/468?random=14",
+      "caption": "Stand-up em 10 min. Preciso atualizar o board.",
+      "createdAt": "2025-02-01T19:00:00.000Z"
+    },
+    {
+      "id": "15",
+      "authorName": "Amanda Dias",
+      "authorHandle": "amandadias",
+      "avatar": "https://i.pravatar.cc/80?img=15",
+      "image": "https://picsum.photos/468/468?random=15",
+      "caption": "Documentação atualizada. Próximo: melhorar os exemplos no README.",
+      "createdAt": "2025-02-01T16:00:00.000Z"
+    },
+    {
+      "id": "16",
+      "authorName": "Gabriel Ribeiro",
+      "authorHandle": "gabrielribeiro",
+      "avatar": "https://i.pravatar.cc/80?img=16",
+      "image": "https://picsum.photos/468/468?random=16",
+      "caption": "Bug crítico resolvido. Foi um null que escapou.",
+      "createdAt": "2025-02-01T13:00:00.000Z"
+    },
+    {
+      "id": "17",
+      "authorName": "Larissa Castro",
+      "authorHandle": "larissacastro",
+      "avatar": "https://i.pravatar.cc/80?img=17",
+      "image": "https://picsum.photos/468/468?random=17",
+      "caption": "Workshop de acessibilidade na próxima semana. Quem vai?",
+      "createdAt": "2025-02-01T10:00:00.000Z"
+    },
+    {
+      "id": "18",
+      "authorName": "Felipe Pereira",
+      "authorHandle": "felipepereira",
+      "avatar": "https://i.pravatar.cc/80?img=18",
+      "image": "https://picsum.photos/468/468?random=18",
+      "caption": "Refatoração do módulo de auth concluída. Código bem mais limpo.",
+      "createdAt": "2025-02-01T07:00:00.000Z"
+    },
+    {
+      "id": "19",
+      "authorName": "Mariana Santos",
+      "authorHandle": "marianasantos",
+      "avatar": "https://i.pravatar.cc/80?img=19",
+      "image": "https://picsum.photos/468/468?random=19",
+      "caption": "Sextou! Mas o deploy é amanhã, então foco total.",
+      "createdAt": "2025-02-01T04:00:00.000Z"
+    },
+    {
+      "id": "20",
+      "authorName": "André Carvalho",
+      "authorHandle": "andrecarvalho",
+      "avatar": "https://i.pravatar.cc/80?img=20",
+      "image": "https://picsum.photos/468/468?random=20",
+      "caption": "API retornando 200. Integração com o front finalmente fechada.",
+      "createdAt": "2025-02-01T01:00:00.000Z"
+    },
+    {
+      "id": "21",
+      "authorName": "Maria Silva",
+      "authorHandle": "mariasilva",
+      "avatar": "https://i.pravatar.cc/80?img=21",
+      "image": "https://picsum.photos/468/468?random=21",
+      "caption": "Design system atualizado. Novos componentes de formulário.",
+      "createdAt": "2025-01-31T22:00:00.000Z"
+    },
+    {
+      "id": "22",
+      "authorName": "João Santos",
+      "authorHandle": "joaosantos",
+      "avatar": "https://i.pravatar.cc/80?img=22",
+      "image": "https://picsum.photos/468/468?random=22",
+      "caption": "Reunião produtiva. Escopo do próximo sprint definido.",
+      "createdAt": "2025-01-31T19:00:00.000Z"
+    },
+    {
+      "id": "23",
+      "authorName": "Ana Costa",
+      "authorHandle": "anacosta",
+      "avatar": "https://i.pravatar.cc/80?img=23",
+      "image": "https://picsum.photos/468/468?random=23",
+      "caption": "Aprendi a usar o React Query hoje. Game changer.",
+      "createdAt": "2025-01-31T16:00:00.000Z"
+    },
+    {
+      "id": "24",
+      "authorName": "Pedro Lima",
+      "authorHandle": "pedrolima",
+      "avatar": "https://i.pravatar.cc/80?img=24",
+      "image": "https://picsum.photos/468/468?random=24",
+      "caption": "PR com 400 linhas. Peço desculpas ao revisor.",
+      "createdAt": "2025-01-31T13:00:00.000Z"
+    },
+    {
+      "id": "25",
+      "authorName": "Carla Mendes",
+      "authorHandle": "carlamendes",
+      "avatar": "https://i.pravatar.cc/80?img=25",
+      "image": "https://picsum.photos/468/468?random=25",
+      "caption": "Configurando CI/CD. Um passo mais perto do deploy automático.",
+      "createdAt": "2025-01-31T10:00:00.000Z"
+    },
+    {
+      "id": "26",
+      "authorName": "Lucas Ferreira",
+      "authorHandle": "lucasferreira",
+      "avatar": "https://i.pravatar.cc/80?img=26",
+      "image": "https://picsum.photos/468/468?random=26",
+      "caption": "Café da tarde com o time. Melhor forma de alinhar ideias.",
+      "createdAt": "2025-01-31T07:00:00.000Z"
+    },
+    {
+      "id": "27",
+      "authorName": "Juliana Oliveira",
+      "authorHandle": "julianaoliveira",
+      "avatar": "https://i.pravatar.cc/80?img=27",
+      "image": "https://picsum.photos/468/468?random=27",
+      "caption": "Encontrei um bug que existia desde 2022. Sensação única.",
+      "createdAt": "2025-01-31T04:00:00.000Z"
+    },
+    {
+      "id": "28",
+      "authorName": "Rafael Souza",
+      "authorHandle": "rafaelsouza",
+      "avatar": "https://i.pravatar.cc/80?img=28",
+      "image": "https://picsum.photos/468/468?random=28",
+      "caption": "Novo monitor. Agora dá pra abrir o DevTools sem sufoco.",
+      "createdAt": "2025-01-31T01:00:00.000Z"
+    },
+    {
+      "id": "29",
+      "authorName": "Fernanda Lima",
+      "authorHandle": "fernandalima",
+      "avatar": "https://i.pravatar.cc/80?img=29",
+      "image": "https://picsum.photos/468/468?random=29",
+      "caption": "Estudando arquitetura de microfrontends. Opiniões?",
+      "createdAt": "2025-01-30T22:00:00.000Z"
+    },
+    {
+      "id": "30",
+      "authorName": "Bruno Alves",
+      "authorHandle": "brunoalves",
+      "avatar": "https://i.pravatar.cc/80?img=30",
+      "image": "https://picsum.photos/468/468?random=30",
+      "caption": "Onboarding de dois devs novos essa semana. Time crescendo.",
+      "createdAt": "2025-01-30T19:00:00.000Z"
+    },
+    {
+      "id": "31",
+      "authorName": "Camila Rocha",
+      "authorHandle": "camilarocha",
+      "avatar": "https://i.pravatar.cc/80?img=31",
+      "image": "https://picsum.photos/468/468?random=31",
+      "caption": "Retrospectiva foi boa. Ações para o próximo sprint definidas.",
+      "createdAt": "2025-01-30T16:00:00.000Z"
+    },
+    {
+      "id": "32",
+      "authorName": "Diego Martins",
+      "authorHandle": "diegomartins",
+      "avatar": "https://i.pravatar.cc/80?img=12",
+      "image": "https://picsum.photos/468/468?random=32",
+      "caption": "Acabei de chegar no escritório. Café na mão, código na tela. Hoje o deploy vai sair.",
+      "createdAt": "2025-01-30T13:00:00.000Z"
+    },
+    {
+      "id": "33",
+      "authorName": "Patricia Gomes",
+      "authorHandle": "patriciagomes",
+      "avatar": "https://i.pravatar.cc/80?img=13",
+      "image": "https://picsum.photos/468/468?random=33",
+      "caption": "Alguém mais acha que segunda-feira deveria começar na terça?",
+      "createdAt": "2025-01-30T10:00:00.000Z"
+    },
+    {
+      "id": "34",
+      "authorName": "Ricardo Nunes",
+      "authorHandle": "ricardonunes",
+      "avatar": "https://i.pravatar.cc/80?img=14",
+      "image": "https://picsum.photos/468/468?random=34",
+      "caption": "Finalmente terminei o curso de React. Próximo passo: contribuir em um open source.",
+      "createdAt": "2025-01-30T07:00:00.000Z"
+    },
+    {
+      "id": "35",
+      "authorName": "Amanda Dias",
+      "authorHandle": "amandadias",
+      "avatar": "https://i.pravatar.cc/80?img=15",
+      "image": "https://picsum.photos/468/468?random=35",
+      "caption": "O que vocês estão usando para gerenciar estado em 2025? Estou entre Zustand e Jotai.",
+      "createdAt": "2025-01-30T04:00:00.000Z"
+    },
+    {
+      "id": "36",
+      "authorName": "Gabriel Ribeiro",
+      "authorHandle": "gabrielribeiro",
+      "avatar": "https://i.pravatar.cc/80?img=16",
+      "image": "https://picsum.photos/468/468?random=36",
+      "caption": "Bom dia! Hoje é dia de refatorar aquele componente que ninguém quer tocar. Coragem.",
+      "createdAt": "2025-01-30T01:00:00.000Z"
+    },
+    {
+      "id": "37",
+      "authorName": "Larissa Castro",
+      "authorHandle": "larissacastro",
+      "avatar": "https://i.pravatar.cc/80?img=17",
+      "image": "https://picsum.photos/468/468?random=37",
+      "caption": "Code review às 9h. Tomem o café antes.",
+      "createdAt": "2025-01-29T22:00:00.000Z"
+    },
+    {
+      "id": "38",
+      "authorName": "Felipe Pereira",
+      "authorHandle": "felipepereira",
+      "avatar": "https://i.pravatar.cc/80?img=18",
+      "image": "https://picsum.photos/468/468?random=38",
+      "caption": "Merge feito. Próxima feature: infinite scroll no feed.",
+      "createdAt": "2025-01-29T19:00:00.000Z"
+    },
+    {
+      "id": "39",
+      "authorName": "Mariana Santos",
+      "authorHandle": "marianasantos",
+      "avatar": "https://i.pravatar.cc/80?img=19",
+      "image": "https://picsum.photos/468/468?random=39",
+      "caption": "Alguém indica um bom curso de TypeScript? Quero aprofundar.",
+      "createdAt": "2025-01-29T16:00:00.000Z"
+    },
+    {
+      "id": "40",
+      "authorName": "André Carvalho",
+      "authorHandle": "andrecarvalho",
+      "avatar": "https://i.pravatar.cc/80?img=20",
+      "image": "https://picsum.photos/468/468?random=40",
+      "caption": "Domingo = dia de side project. O que vocês estão construindo?",
+      "createdAt": "2025-01-29T13:00:00.000Z"
+    },
+    {
+      "id": "41",
+      "authorName": "Maria Silva",
+      "authorHandle": "mariasilva",
+      "avatar": "https://i.pravatar.cc/80?img=1",
+      "image": "https://picsum.photos/468/468?random=41",
+      "caption": "Testes passando. Deploy em produção na sequência.",
+      "createdAt": "2025-01-29T10:00:00.000Z"
+    },
+    {
+      "id": "42",
+      "authorName": "João Santos",
+      "authorHandle": "joaosantos",
+      "avatar": "https://i.pravatar.cc/80?img=2",
+      "image": "https://picsum.photos/468/468?random=42",
+      "caption": "Pair programming hoje salvou meu dia. Obrigado ao time.",
+      "createdAt": "2025-01-29T07:00:00.000Z"
+    },
+    {
+      "id": "43",
+      "authorName": "Ana Costa",
+      "authorHandle": "anacosta",
+      "avatar": "https://i.pravatar.cc/80?img=3",
+      "image": "https://picsum.photos/468/468?random=43",
+      "caption": "Novo notebook chegou. Setup do ambiente é sempre a parte chata.",
+      "createdAt": "2025-01-29T04:00:00.000Z"
+    },
+    {
+      "id": "44",
+      "authorName": "Pedro Lima",
+      "authorHandle": "pedrolima",
+      "avatar": "https://i.pravatar.cc/80?img=4",
+      "image": "https://picsum.photos/468/468?random=44",
+      "caption": "Consegui o primeiro PR aprovado no projeto open source. Feliz demais.",
+      "createdAt": "2025-01-29T01:00:00.000Z"
+    },
+    {
+      "id": "45",
+      "authorName": "Carla Mendes",
+      "authorHandle": "carlamendes",
+      "avatar": "https://i.pravatar.cc/80?img=5",
+      "image": "https://picsum.photos/468/468?random=45",
+      "caption": "Stand-up em 10 min. Preciso atualizar o board.",
+      "createdAt": "2025-01-28T22:00:00.000Z"
+    },
+    {
+      "id": "46",
+      "authorName": "Lucas Ferreira",
+      "authorHandle": "lucasferreira",
+      "avatar": "https://i.pravatar.cc/80?img=6",
+      "image": "https://picsum.photos/468/468?random=46",
+      "caption": "Documentação atualizada. Próximo: melhorar os exemplos no README.",
+      "createdAt": "2025-01-28T19:00:00.000Z"
+    },
+    {
+      "id": "47",
+      "authorName": "Juliana Oliveira",
+      "authorHandle": "julianaoliveira",
+      "avatar": "https://i.pravatar.cc/80?img=7",
+      "image": "https://picsum.photos/468/468?random=47",
+      "caption": "Bug crítico resolvido. Foi um null que escapou.",
+      "createdAt": "2025-01-28T16:00:00.000Z"
+    },
+    {
+      "id": "48",
+      "authorName": "Rafael Souza",
+      "authorHandle": "rafaelsouza",
+      "avatar": "https://i.pravatar.cc/80?img=8",
+      "image": "https://picsum.photos/468/468?random=48",
+      "caption": "Workshop de acessibilidade na próxima semana. Quem vai?",
+      "createdAt": "2025-01-28T13:00:00.000Z"
+    },
+    {
+      "id": "49",
+      "authorName": "Fernanda Lima",
+      "authorHandle": "fernandalima",
+      "avatar": "https://i.pravatar.cc/80?img=9",
+      "image": "https://picsum.photos/468/468?random=49",
+      "caption": "Refatoração do módulo de auth concluída. Código bem mais limpo.",
+      "createdAt": "2025-01-28T10:00:00.000Z"
+    },
+    {
+      "id": "50",
+      "authorName": "Bruno Alves",
+      "authorHandle": "brunoalves",
+      "avatar": "https://i.pravatar.cc/80?img=10",
+      "image": "https://picsum.photos/468/468?random=50",
+      "caption": "Sextou! Mas o deploy é amanhã, então foco total.",
+      "createdAt": "2025-01-28T07:00:00.000Z"
+    },
+    {
+      "id": "51",
+      "authorName": "Camila Rocha",
+      "authorHandle": "camilarocha",
+      "avatar": "https://i.pravatar.cc/80?img=11",
+      "image": "https://picsum.photos/468/468?random=51",
+      "caption": "API retornando 200. Integração com o front finalmente fechada.",
+      "createdAt": "2025-01-28T04:00:00.000Z"
+    },
+    {
+      "id": "52",
+      "authorName": "Diego Martins",
+      "authorHandle": "diegomartins",
+      "avatar": "https://i.pravatar.cc/80?img=12",
+      "image": "https://picsum.photos/468/468?random=52",
+      "caption": "Design system atualizado. Novos componentes de formulário.",
+      "createdAt": "2025-01-28T01:00:00.000Z"
+    },
+    {
+      "id": "53",
+      "authorName": "Patricia Gomes",
+      "authorHandle": "patriciagomes",
+      "avatar": "https://i.pravatar.cc/80?img=13",
+      "image": "https://picsum.photos/468/468?random=53",
+      "caption": "Reunião produtiva. Escopo do próximo sprint definido.",
+      "createdAt": "2025-01-27T22:00:00.000Z"
+    },
+    {
+      "id": "54",
+      "authorName": "Ricardo Nunes",
+      "authorHandle": "ricardonunes",
+      "avatar": "https://i.pravatar.cc/80?img=14",
+      "image": "https://picsum.photos/468/468?random=54",
+      "caption": "Aprendi a usar o React Query hoje. Game changer.",
+      "createdAt": "2025-01-27T19:00:00.000Z"
+    },
+    {
+      "id": "55",
+      "authorName": "Amanda Dias",
+      "authorHandle": "amandadias",
+      "avatar": "https://i.pravatar.cc/80?img=15",
+      "image": "https://picsum.photos/468/468?random=55",
+      "caption": "PR com 400 linhas. Peço desculpas ao revisor.",
+      "createdAt": "2025-01-27T16:00:00.000Z"
+    },
+    {
+      "id": "56",
+      "authorName": "Gabriel Ribeiro",
+      "authorHandle": "gabrielribeiro",
+      "avatar": "https://i.pravatar.cc/80?img=16",
+      "image": "https://picsum.photos/468/468?random=56",
+      "caption": "Configurando CI/CD. Um passo mais perto do deploy automático.",
+      "createdAt": "2025-01-27T13:00:00.000Z"
+    },
+    {
+      "id": "57",
+      "authorName": "Larissa Castro",
+      "authorHandle": "larissacastro",
+      "avatar": "https://i.pravatar.cc/80?img=17",
+      "image": "https://picsum.photos/468/468?random=57",
+      "caption": "Café da tarde com o time. Melhor forma de alinhar ideias.",
+      "createdAt": "2025-01-27T10:00:00.000Z"
+    },
+    {
+      "id": "58",
+      "authorName": "Felipe Pereira",
+      "authorHandle": "felipepereira",
+      "avatar": "https://i.pravatar.cc/80?img=18",
+      "image": "https://picsum.photos/468/468?random=58",
+      "caption": "Encontrei um bug que existia desde 2022. Sensação única.",
+      "createdAt": "2025-01-27T07:00:00.000Z"
+    },
+    {
+      "id": "59",
+      "authorName": "Mariana Santos",
+      "authorHandle": "marianasantos",
+      "avatar": "https://i.pravatar.cc/80?img=19",
+      "image": "https://picsum.photos/468/468?random=59",
+      "caption": "Novo monitor. Agora dá pra abrir o DevTools sem sufoco.",
+      "createdAt": "2025-01-27T04:00:00.000Z"
+    },
+    {
+      "id": "60",
+      "authorName": "André Carvalho",
+      "authorHandle": "andrecarvalho",
+      "avatar": "https://i.pravatar.cc/80?img=20",
+      "image": "https://picsum.photos/468/468?random=60",
+      "caption": "Estudando arquitetura de microfrontends. Opiniões?",
+      "createdAt": "2025-01-27T01:00:00.000Z"
+    },
+    {
+      "id": "61",
+      "authorName": "Maria Silva",
+      "authorHandle": "mariasilva",
+      "avatar": "https://i.pravatar.cc/80?img=21",
+      "image": "https://picsum.photos/468/468?random=61",
+      "caption": "Onboarding de dois devs novos essa semana. Time crescendo.",
+      "createdAt": "2025-01-26T22:00:00.000Z"
+    },
+    {
+      "id": "62",
+      "authorName": "João Santos",
+      "authorHandle": "joaosantos",
+      "avatar": "https://i.pravatar.cc/80?img=22",
+      "image": "https://picsum.photos/468/468?random=62",
+      "caption": "Retrospectiva foi boa. Ações para o próximo sprint definidas.",
+      "createdAt": "2025-01-26T19:00:00.000Z"
+    },
+    {
+      "id": "63",
+      "authorName": "Ana Costa",
+      "authorHandle": "anacosta",
+      "avatar": "https://i.pravatar.cc/80?img=23",
+      "image": "https://picsum.photos/468/468?random=63",
+      "caption": "Acabei de chegar no escritório. Café na mão, código na tela. Hoje o deploy vai sair.",
+      "createdAt": "2025-01-26T16:00:00.000Z"
+    },
+    {
+      "id": "64",
+      "authorName": "Pedro Lima",
+      "authorHandle": "pedrolima",
+      "avatar": "https://i.pravatar.cc/80?img=24",
+      "image": "https://picsum.photos/468/468?random=64",
+      "caption": "Alguém mais acha que segunda-feira deveria começar na terça?",
+      "createdAt": "2025-01-26T13:00:00.000Z"
+    },
+    {
+      "id": "65",
+      "authorName": "Carla Mendes",
+      "authorHandle": "carlamendes",
+      "avatar": "https://i.pravatar.cc/80?img=25",
+      "image": "https://picsum.photos/468/468?random=65",
+      "caption": "Finalmente terminei o curso de React. Próximo passo: contribuir em um open source.",
+      "createdAt": "2025-01-26T10:00:00.000Z"
+    },
+    {
+      "id": "66",
+      "authorName": "Lucas Ferreira",
+      "authorHandle": "lucasferreira",
+      "avatar": "https://i.pravatar.cc/80?img=26",
+      "image": "https://picsum.photos/468/468?random=66",
+      "caption": "O que vocês estão usando para gerenciar estado em 2025? Estou entre Zustand e Jotai.",
+      "createdAt": "2025-01-26T07:00:00.000Z"
+    },
+    {
+      "id": "67",
+      "authorName": "Juliana Oliveira",
+      "authorHandle": "julianaoliveira",
+      "avatar": "https://i.pravatar.cc/80?img=27",
+      "image": "https://picsum.photos/468/468?random=67",
+      "caption": "Bom dia! Hoje é dia de refatorar aquele componente que ninguém quer tocar. Coragem.",
+      "createdAt": "2025-01-26T04:00:00.000Z"
+    },
+    {
+      "id": "68",
+      "authorName": "Rafael Souza",
+      "authorHandle": "rafaelsouza",
+      "avatar": "https://i.pravatar.cc/80?img=28",
+      "image": "https://picsum.photos/468/468?random=68",
+      "caption": "Code review às 9h. Tomem o café antes.",
+      "createdAt": "2025-01-26T01:00:00.000Z"
+    },
+    {
+      "id": "69",
+      "authorName": "Fernanda Lima",
+      "authorHandle": "fernandalima",
+      "avatar": "https://i.pravatar.cc/80?img=29",
+      "image": "https://picsum.photos/468/468?random=69",
+      "caption": "Merge feito. Próxima feature: infinite scroll no feed.",
+      "createdAt": "2025-01-25T22:00:00.000Z"
+    },
+    {
+      "id": "70",
+      "authorName": "Bruno Alves",
+      "authorHandle": "brunoalves",
+      "avatar": "https://i.pravatar.cc/80?img=30",
+      "image": "https://picsum.photos/468/468?random=70",
+      "caption": "Alguém indica um bom curso de TypeScript? Quero aprofundar.",
+      "createdAt": "2025-01-25T19:00:00.000Z"
+    },
+    {
+      "id": "71",
+      "authorName": "Camila Rocha",
+      "authorHandle": "camilarocha",
+      "avatar": "https://i.pravatar.cc/80?img=1",
+      "image": "https://picsum.photos/468/468?random=71",
+      "caption": "Domingo = dia de side project. O que vocês estão construindo?",
+      "createdAt": "2025-01-25T16:00:00.000Z"
+    },
+    {
+      "id": "72",
+      "authorName": "Diego Martins",
+      "authorHandle": "diegomartins",
+      "avatar": "https://i.pravatar.cc/80?img=2",
+      "image": "https://picsum.photos/468/468?random=72",
+      "caption": "Testes passando. Deploy em produção na sequência.",
+      "createdAt": "2025-01-25T13:00:00.000Z"
+    },
+    {
+      "id": "73",
+      "authorName": "Patricia Gomes",
+      "authorHandle": "patriciagomes",
+      "avatar": "https://i.pravatar.cc/80?img=3",
+      "image": "https://picsum.photos/468/468?random=73",
+      "caption": "Pair programming hoje salvou meu dia. Obrigado ao time.",
+      "createdAt": "2025-01-25T10:00:00.000Z"
+    },
+    {
+      "id": "74",
+      "authorName": "Ricardo Nunes",
+      "authorHandle": "ricardonunes",
+      "avatar": "https://i.pravatar.cc/80?img=4",
+      "image": "https://picsum.photos/468/468?random=74",
+      "caption": "Novo notebook chegou. Setup do ambiente é sempre a parte chata.",
+      "createdAt": "2025-01-25T07:00:00.000Z"
+    },
+    {
+      "id": "75",
+      "authorName": "Amanda Dias",
+      "authorHandle": "amandadias",
+      "avatar": "https://i.pravatar.cc/80?img=5",
+      "image": "https://picsum.photos/468/468?random=75",
+      "caption": "Consegui o primeiro PR aprovado no projeto open source. Feliz demais.",
+      "createdAt": "2025-01-25T04:00:00.000Z"
+    },
+    {
+      "id": "76",
+      "authorName": "Gabriel Ribeiro",
+      "authorHandle": "gabrielribeiro",
+      "avatar": "https://i.pravatar.cc/80?img=6",
+      "image": "https://picsum.photos/468/468?random=76",
+      "caption": "Stand-up em 10 min. Preciso atualizar o board.",
+      "createdAt": "2025-01-25T01:00:00.000Z"
+    },
+    {
+      "id": "77",
+      "authorName": "Larissa Castro",
+      "authorHandle": "larissacastro",
+      "avatar": "https://i.pravatar.cc/80?img=7",
+      "image": "https://picsum.photos/468/468?random=77",
+      "caption": "Documentação atualizada. Próximo: melhorar os exemplos no README.",
+      "createdAt": "2025-01-24T22:00:00.000Z"
+    },
+    {
+      "id": "78",
+      "authorName": "Felipe Pereira",
+      "authorHandle": "felipepereira",
+      "avatar": "https://i.pravatar.cc/80?img=8",
+      "image": "https://picsum.photos/468/468?random=78",
+      "caption": "Bug crítico resolvido. Foi um null que escapou.",
+      "createdAt": "2025-01-24T19:00:00.000Z"
+    },
+    {
+      "id": "79",
+      "authorName": "Mariana Santos",
+      "authorHandle": "marianasantos",
+      "avatar": "https://i.pravatar.cc/80?img=9",
+      "image": "https://picsum.photos/468/468?random=79",
+      "caption": "Workshop de acessibilidade na próxima semana. Quem vai?",
+      "createdAt": "2025-01-24T16:00:00.000Z"
+    },
+    {
+      "id": "80",
+      "authorName": "André Carvalho",
+      "authorHandle": "andrecarvalho",
+      "avatar": "https://i.pravatar.cc/80?img=10",
+      "image": "https://picsum.photos/468/468?random=80",
+      "caption": "Refatoração do módulo de auth concluída. Código bem mais limpo.",
+      "createdAt": "2025-01-24T13:00:00.000Z"
+    },
+    {
+      "id": "81",
+      "authorName": "Maria Silva",
+      "authorHandle": "mariasilva",
+      "avatar": "https://i.pravatar.cc/80?img=11",
+      "image": "https://picsum.photos/468/468?random=81",
+      "caption": "Sextou! Mas o deploy é amanhã, então foco total.",
+      "createdAt": "2025-01-24T10:00:00.000Z"
+    },
+    {
+      "id": "82",
+      "authorName": "João Santos",
+      "authorHandle": "joaosantos",
+      "avatar": "https://i.pravatar.cc/80?img=12",
+      "image": "https://picsum.photos/468/468?random=82",
+      "caption": "API retornando 200. Integração com o front finalmente fechada.",
+      "createdAt": "2025-01-24T07:00:00.000Z"
+    },
+    {
+      "id": "83",
+      "authorName": "Ana Costa",
+      "authorHandle": "anacosta",
+      "avatar": "https://i.pravatar.cc/80?img=13",
+      "image": "https://picsum.photos/468/468?random=83",
+      "caption": "Design system atualizado. Novos componentes de formulário.",
+      "createdAt": "2025-01-24T04:00:00.000Z"
+    },
+    {
+      "id": "84",
+      "authorName": "Pedro Lima",
+      "authorHandle": "pedrolima",
+      "avatar": "https://i.pravatar.cc/80?img=14",
+      "image": "https://picsum.photos/468/468?random=84",
+      "caption": "Reunião produtiva. Escopo do próximo sprint definido.",
+      "createdAt": "2025-01-24T01:00:00.000Z"
+    },
+    {
+      "id": "85",
+      "authorName": "Carla Mendes",
+      "authorHandle": "carlamendes",
+      "avatar": "https://i.pravatar.cc/80?img=15",
+      "image": "https://picsum.photos/468/468?random=85",
+      "caption": "Aprendi a usar o React Query hoje. Game changer.",
+      "createdAt": "2025-01-23T22:00:00.000Z"
+    },
+    {
+      "id": "86",
+      "authorName": "Lucas Ferreira",
+      "authorHandle": "lucasferreira",
+      "avatar": "https://i.pravatar.cc/80?img=16",
+      "image": "https://picsum.photos/468/468?random=86",
+      "caption": "PR com 400 linhas. Peço desculpas ao revisor.",
+      "createdAt": "2025-01-23T19:00:00.000Z"
+    },
+    {
+      "id": "87",
+      "authorName": "Juliana Oliveira",
+      "authorHandle": "julianaoliveira",
+      "avatar": "https://i.pravatar.cc/80?img=17",
+      "image": "https://picsum.photos/468/468?random=87",
+      "caption": "Configurando CI/CD. Um passo mais perto do deploy automático.",
+      "createdAt": "2025-01-23T16:00:00.000Z"
+    },
+    {
+      "id": "88",
+      "authorName": "Rafael Souza",
+      "authorHandle": "rafaelsouza",
+      "avatar": "https://i.pravatar.cc/80?img=18",
+      "image": "https://picsum.photos/468/468?random=88",
+      "caption": "Café da tarde com o time. Melhor forma de alinhar ideias.",
+      "createdAt": "2025-01-23T13:00:00.000Z"
+    },
+    {
+      "id": "89",
+      "authorName": "Fernanda Lima",
+      "authorHandle": "fernandalima",
+      "avatar": "https://i.pravatar.cc/80?img=19",
+      "image": "https://picsum.photos/468/468?random=89",
+      "caption": "Encontrei um bug que existia desde 2022. Sensação única.",
+      "createdAt": "2025-01-23T10:00:00.000Z"
+    },
+    {
+      "id": "90",
+      "authorName": "Bruno Alves",
+      "authorHandle": "brunoalves",
+      "avatar": "https://i.pravatar.cc/80?img=20",
+      "image": "https://picsum.photos/468/468?random=90",
+      "caption": "Novo monitor. Agora dá pra abrir o DevTools sem sufoco.",
+      "createdAt": "2025-01-23T07:00:00.000Z"
+    },
+    {
+      "id": "91",
+      "authorName": "Camila Rocha",
+      "authorHandle": "camilarocha",
+      "avatar": "https://i.pravatar.cc/80?img=21",
+      "image": "https://picsum.photos/468/468?random=91",
+      "caption": "Estudando arquitetura de microfrontends. Opiniões?",
+      "createdAt": "2025-01-23T04:00:00.000Z"
+    },
+    {
+      "id": "92",
+      "authorName": "Diego Martins",
+      "authorHandle": "diegomartins",
+      "avatar": "https://i.pravatar.cc/80?img=22",
+      "image": "https://picsum.photos/468/468?random=92",
+      "caption": "Onboarding de dois devs novos essa semana. Time crescendo.",
+      "createdAt": "2025-01-23T01:00:00.000Z"
+    },
+    {
+      "id": "93",
+      "authorName": "Patricia Gomes",
+      "authorHandle": "patriciagomes",
+      "avatar": "https://i.pravatar.cc/80?img=23",
+      "image": "https://picsum.photos/468/468?random=93",
+      "caption": "Retrospectiva foi boa. Ações para o próximo sprint definidas.",
+      "createdAt": "2025-01-22T22:00:00.000Z"
+    },
+    {
+      "id": "94",
+      "authorName": "Ricardo Nunes",
+      "authorHandle": "ricardonunes",
+      "avatar": "https://i.pravatar.cc/80?img=24",
+      "image": "https://picsum.photos/468/468?random=94",
+      "caption": "Acabei de chegar no escritório. Café na mão, código na tela. Hoje o deploy vai sair.",
+      "createdAt": "2025-01-22T19:00:00.000Z"
+    },
+    {
+      "id": "95",
+      "authorName": "Amanda Dias",
+      "authorHandle": "amandadias",
+      "avatar": "https://i.pravatar.cc/80?img=25",
+      "image": "https://picsum.photos/468/468?random=95",
+      "caption": "Alguém mais acha que segunda-feira deveria começar na terça?",
+      "createdAt": "2025-01-22T16:00:00.000Z"
+    },
+    {
+      "id": "96",
+      "authorName": "Gabriel Ribeiro",
+      "authorHandle": "gabrielribeiro",
+      "avatar": "https://i.pravatar.cc/80?img=26",
+      "image": "https://picsum.photos/468/468?random=96",
+      "caption": "Finalmente terminei o curso de React. Próximo passo: contribuir em um open source.",
+      "createdAt": "2025-01-22T13:00:00.000Z"
+    },
+    {
+      "id": "97",
+      "authorName": "Larissa Castro",
+      "authorHandle": "larissacastro",
+      "avatar": "https://i.pravatar.cc/80?img=27",
+      "image": "https://picsum.photos/468/468?random=97",
+      "caption": "O que vocês estão usando para gerenciar estado em 2025? Estou entre Zustand e Jotai.",
+      "createdAt": "2025-01-22T10:00:00.000Z"
+    },
+    {
+      "id": "98",
+      "authorName": "Felipe Pereira",
+      "authorHandle": "felipepereira",
+      "avatar": "https://i.pravatar.cc/80?img=28",
+      "image": "https://picsum.photos/468/468?random=98",
+      "caption": "Bom dia! Hoje é dia de refatorar aquele componente que ninguém quer tocar. Coragem.",
+      "createdAt": "2025-01-22T07:00:00.000Z"
+    },
+    {
+      "id": "99",
+      "authorName": "Mariana Santos",
+      "authorHandle": "marianasantos",
+      "avatar": "https://i.pravatar.cc/80?img=29",
+      "image": "https://picsum.photos/468/468?random=99",
+      "caption": "Code review às 9h. Tomem o café antes.",
+      "createdAt": "2025-01-22T04:00:00.000Z"
+    },
+    {
+      "id": "100",
+      "authorName": "André Carvalho",
+      "authorHandle": "andrecarvalho",
+      "avatar": "https://i.pravatar.cc/80?img=30",
+      "image": "https://picsum.photos/468/468?random=100",
+      "caption": "Merge feito. Próxima feature: infinite scroll no feed.",
+      "createdAt": "2025-01-22T01:00:00.000Z"
+    }
   ]
 }
